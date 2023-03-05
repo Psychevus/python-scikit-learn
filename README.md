@@ -48,4 +48,4 @@ score = model.score(X_test, y_test)
 print("R-squared score:", score)
 ```
 Here, we're using the score method to calculate the R-squared score for our model on the testing data.
-And that's it!
+And done!
