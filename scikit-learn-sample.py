@@ -18,4 +18,4 @@ model.fit(X_train, y_train)
 score = model.score(X_test, y_test)
 print("R-squared score:", score)
 
-#This code should output the R-squared score for our model on the testing data.
+# This code should output the R-squared score for our model on the testing data.
